@@ -1,7 +1,13 @@
 ## Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=30&height=300&section=header&text=Sun%20JiHoon&fontSize=90)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunJiHoon&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunJiHoon&layout=compact)
+
 <!--
 **SunJiHoon/SunJiHoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
