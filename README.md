@@ -1,9 +1,32 @@
-## Hi there 👋
+## 안녕하세요 👋
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=30&height=300&section=header&text=Sun%20JiHoon&fontSize=90)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunJiHoon&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunJiHoon&layout=compact)
+---
+
+### 🚀 소개  
+🌱 **효율적이고 확장 가능한 시스템 개발에 열정이 있는 백엔드 개발자입니다.**  
+
+---
+
+### 📊 GitHub Stats  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunJiHoon&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunJiHoon&layout=compact&theme=radical)  
+
+---
+
+### 🔧 기술 스택  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+
+---
+
+### 💡 연락하기  
+cangogi1@naver.com
+
+---
+
 
 <!--
 **SunJiHoon/SunJiHoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
